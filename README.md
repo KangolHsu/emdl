@@ -47,7 +47,7 @@ Embedded and mobile deep learning research notes
 1. [Towards the Limit of Network Quantization](https://arxiv.org/abs/1612.01543) [ICLR'17]
 1. [Deep Learning with Low Precision by Half-wave Gaussian Quantization](https://arxiv.org/abs/1702.00953) [CVPR'17]
 1. [ShiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks](https://arxiv.org/abs/1706.02393) [arXiv'17]
-1. [Performance Guaranteed Network Acceleration via High-Order Residual Quantization](https://arxiv.org/abs/1706.02393) [ICCV'17]
+1. [Performance Guaranteed Network Acceleration via High-Order Residual Quantization](https://pan.baidu.com/s/1bMgbme) [ICCV'17]
 
 ### Pruning
 
@@ -58,7 +58,7 @@ Embedded and mobile deep learning research notes
 1. [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149) [ICLR'16]
 1. [Dynamic Network Surgery for Efficient DNNs](https://arxiv.org/abs/1608.04493) [NIPS'16]
 1. [Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning](https://arxiv.org/abs/1611.05128) [CVPR'17]
-1. [ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression](https://pan.baidu.com/s/1bMgbme) [ICCV'17]
+1. [ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression](https://arxiv.org/abs/1707.06342) [ICCV'17]
 
 ### Approximation
 
